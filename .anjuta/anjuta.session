@@ -1,0 +1,10 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1016x689+0+27
+
+[File Loader]
+Files=file:///mnt/win_c/Dev-Cpp/SideScroller/main.c#1
+
+[Execution]
+Run in terminal=2
